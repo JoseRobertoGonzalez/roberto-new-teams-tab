@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "roberto company name"
+    },
+    "libraryName": "newRobertoMsteamsTab",
+    "generator-version": "3.3.1"
+  }
+}
